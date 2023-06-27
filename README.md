@@ -7,6 +7,7 @@ This Python script is a command line interface (CLI) tool that interacts with Op
 1. Click the UNIX executable in the dist directory or execute the path like ./dist/cli_chad
 2. Input your OpenAI API key in the CLI (the key begins with sk-)
 <img width="568" alt="スクリーンショット 2023-06-27 17 25 11" src="https://github.com/NoguchiShigeki/cli_chad/assets/76696270/c827a00d-9a96-40ed-866b-71a8255d3b2e">
+
 3. If the API key is verified, you can use ChatGPT in your CLI!
    If your OpenAI account has access to GPT-4, this app runs on GPT-4
    If not, this app runs on GPT-3.5-Turbo
